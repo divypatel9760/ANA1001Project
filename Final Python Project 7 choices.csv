@@ -1,0 +1,21 @@
+﻿ID,SPACES,STORY ,NAVIGATION,CHOICE 1,CHOICE 2,CHOICE 3,CHOICE 4,CHOICE 5,CHOICE 6,CHOICE 7,WIN,LOOSE,Alladin
+1,Bedroom 1,"You are now in Bedroom 1. You see a bed, a television, and a bathroom",Enter 6 to go to Bathroom-1. Enter 19 to go to Walk in Closet . Enter 4 to go to Living Room,6,19,4,,,,,0,0,5
+2,Bedroom 2,You are now in Bedroom 2. You see a bathroom and a robot.,Enter 7 to go bathroom. Enter 19 to go to Walk in Closet. enter 4 to go Living Room,7,19,4,,,,,0,0,3
+3,Balcony,You went little far to see sky and you fall of the balcony. You died,,,,,,,,,0,1,10
+4,Living room,You are now in the living room of the house. Now you cannot go out from here. Find a door to exit.,Enter 3 to go to Balcony. Enter 1 to go to the Bedroom. Enter 2 to go to Bedroom 2,3,1,2,5,18,15,13,0,0,0
+5,Kitchen,You are in the kitchen. You see a sandwich and a burner.,Enter 17 to go to Pantry. Enter 18 to go to the Dining room. Enter 4 to go to the Living Room,17,18,4,,,,,0,0,1
+6,Bathroom 1,You fall on the slippery floor. You died,,,,,,,,,0,1,2
+7,Bathroom 2,You took bath and feeling fresh,Enter 2 to go to bedroom-2,2,,,,,,,0,0,6
+8,Rest room,You found a hidden map,Enter 20 to go to Laundry. Enter 15 to go to Basement. Enter 9 to go to Store Room,20,15,9,,,,,0,0,0
+9,Store room,You found a gun,Enter 15 to go to Basement. Enter 20 to go to Laundry. Enter 8 to go to Rest Room,15,20,8,,,,,0,0,2
+10,Garage,You are in the garage,Enter 12 to go to Swimming Pool,12,,,,,,,0,0,13
+11,Garden,There is a nice smell from flowers in the garden,Enter 15 to go to Basement,15,,,,,,,0,0,5
+12,Swimming pool,You entered the swimming pool. You don’t know how to swim. You died,,,,,,,,,0,1,0
+13,Roof top,You are kites festival on the rooftop,Enter 14 to go to Fire place,14,,,,,,,0,0,7
+14,Fire place,You turned on the fireplace and the atmosphere is warm,Enter 13 to go to Roof Top,13,,,,,,,0,0,9
+15,Basement,You are feeling cold,Enter 4 to go to Living Room. Enter 20 to go to Laundry. Enter 8 to go to RestRoom. Enter 9 to go to StoreRoom,4,20,8,9,,,,0,0,1
+16,Entrance hall,You’ve made it .!!!You found the exit. You won.!,,,,,,,,,1,0,0
+17,Pantry,You burned yourself,Enter 5 to go to Kitchen. Enter 12 to jump into the swimming pool,5,12,,,,,,0,0,1
+18,Dining room,You are having a delicious meal on your dining  table,Enter 5 to go to Kitchen,5,,,,,,,0,0,3
+19,Walk-in-closet,You changed your clothes,Enter 1 to go to Bedroom-1.  Enter 2 go to go Bedroom,1,2,,,,,,0,0,0
+20,Laundry,You started washing machine. It will take 40 minutes to wash the clothes,Enter 9 to go to Store room. Enter 8 to go to Restroom,9,8,,,,,,0,0,0
